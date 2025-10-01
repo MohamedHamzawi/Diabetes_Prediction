@@ -37,7 +37,7 @@ The project follows these steps:
 
 ## Results
 
-The model's accuracy on the training data is approximately [Insert Training Accuracy] and on the testing data is approximately [Insert Testing Accuracy].
+The model's accuracy on the training data is approximately 77 % and on the testing data is approximately 78 %.
 
 ## Future Improvements
 
